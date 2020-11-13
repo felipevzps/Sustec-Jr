@@ -1,4 +1,4 @@
-# Sustec-Jr
-Automatizando tarefas manuais
+![logo](/imagens/logo.jpg)
 
-https://www.sustecjunior.com/home 
+Automatizando tarefas manuais na realização de serviços da [Sustec Jr](https://www.sustecjunior.com/home).
+
