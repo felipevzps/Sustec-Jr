@@ -1,2 +1,4 @@
 # Sustec-Jr
-Automatizando tarefas chatas
+Automatizando tarefas manuais
+
+https://www.sustecjunior.com/home 
